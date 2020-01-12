@@ -42,6 +42,11 @@
             <artifactId>allure-spock</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>com.github.testdotai</groupId>
+            <artifactId>classifier-client-java</artifactId>
+        </dependency>
+
     </dependencies>
 
     <build>
